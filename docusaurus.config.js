@@ -42,6 +42,7 @@ const config = {
           showReadingTime: true,
           routeBasePath: "/", // Set the blog to be served at the root URL
           postsPerPage: 5,
+          exclude: ["drafts/**"],
           editUrl:
             "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
         },
