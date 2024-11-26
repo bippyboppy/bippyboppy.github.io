@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bippyboppy.github.io/</id>
     <title>Samsaric Blog</title>
-    <updated>2025-11-28T00:00:00.000Z</updated>
+    <updated>2024-11-26T16:14:26.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bippyboppy.github.io/"/>
     <subtitle>Samsaric Blog</subtitle>
     <icon>https://bippyboppy.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Sanity Checks]]></title>
-        <id>https://bippyboppy.github.io/2025/11/28/Sanity-Checks</id>
-        <link href="https://bippyboppy.github.io/2025/11/28/Sanity-Checks"/>
-        <updated>2025-11-28T00:00:00.000Z</updated>
+        <id>https://bippyboppy.github.io/Sanity-Checks</id>
+        <link href="https://bippyboppy.github.io/Sanity-Checks"/>
+        <updated>2024-11-26T16:14:26.950Z</updated>
         <summary type="html"><![CDATA[Sanity checks are just systems or self checks you can use to ensure you're acting in as rational, practical and well thought out way as you can.]]></summary>
         <content type="html"><![CDATA[<p>Sanity checks are just systems or self checks you can use to ensure you're acting in as rational, practical and well thought out way as you can.</p>
 <h1>Bayes Mindset</h1>
 <h1>Confidence Calibration</h1>]]></content>
         <author>
-            <name>grate</name>
+            <name>GratefulDaemon</name>
         </author>
         <category label="Mindset" term="Mindset"/>
     </entry>
