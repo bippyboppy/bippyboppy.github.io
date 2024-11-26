@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[513],{1830:c=>{c.exports=JSON.parse('{"tags":[{"label":"Accelerationism","permalink":"/doc/tags/acc","description":"acc","count":1}]}')}}]);
