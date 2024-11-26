@@ -6,8 +6,8 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "GratefulDaemon",
-  tagline: "Dinosaurs are cool",
+  title: "Samsaric",
+  tagline: "Noise",
   favicon: "img/favicon.ico",
 
   // Production URL of your site
@@ -61,7 +61,7 @@ const config = {
     ({
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "GratefulDaemon",
+        title: "Samsaric",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",

@@ -1,7 +1,6 @@
 #+title: predictions 2024
 #+TODO: INCORRECT | CORRECT
 #+OPTIONS: toc:1
-* Predictions, 2024
 * 55% Confidence [/] [%]
 * 65% Confidence [/] [%]
 * 75% Confidence [/] [%]

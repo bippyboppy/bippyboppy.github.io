@@ -1,19 +1,19 @@
 ai:
   label: Artificial Intelligence
   permalink: /ai
-  description: AI
+  description: GPTs, AI Tools, GANs and AI Thoughts
 
 vr:
   label: Virtual Reality
   permalink: /vr
-  description: vr
+  description: Virtual Reality and Augmented Reality
 
 acc:
   label: Accelerationism
   permalink: /acc
-  description: acc
+  description: Accelerationism is the idea that the intensification of capitalist or technological processes can lead to profound societal change. It can take different forms, such as left-accelerationism, which seeks to harness technology for egalitarian goals, or right-accelerationism, which focuses on amplifying market dynamics regardless of their consequences.
 
 mindset:
   label: Mindset
   permalink: /mindset
-  description: mindset
+  description: Things relating to thinking patterns and the mind broadly
