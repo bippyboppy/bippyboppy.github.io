@@ -1,0 +1,19 @@
+ai:
+  label: Artificial Intelligence
+  permalink: /ai
+  description: AI
+
+vr:
+  label: Virtual Reality
+  permalink: /vr
+  description: vr
+
+acc:
+  label: Accelerationism
+  permalink: /acc
+  description: acc
+
+mindset:
+  label: Mindset
+  permalink: /mindset
+  description: mindset
