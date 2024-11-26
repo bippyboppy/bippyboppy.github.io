@@ -35,13 +35,15 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/bippyboppy/doc",
+          editUrl:
+            "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
         },
         blog: {
           showReadingTime: true,
           routeBasePath: "/", // Set the blog to be served at the root URL
-          postsPerPage: 10,
-          // editUrl: "https://github.com/bippyboppy/doc",
+          postsPerPage: 5,
+          editUrl:
+            "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
