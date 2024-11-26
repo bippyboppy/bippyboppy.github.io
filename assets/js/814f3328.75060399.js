@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"k/acc manifesto","permalink":"/doc/2024/03/15/kacc-manifesto","unlisted":false,"date":"2024-03-15T00:00:00.000Z"}]}')}}]);
