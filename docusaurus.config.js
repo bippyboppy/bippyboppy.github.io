@@ -110,6 +110,13 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
+      algolia: {
+        appId: "SUKJBSPLKI",
+        apiKey: "6c8d79d31af3e94783226da5e2e45389",
+        indexName: "bippyboppyio", // Replace with your actual Algolia index name
+        contextualSearch: true, // Enable contextual search for docs
+        searchParameters: {}, // Optional search parameters
+      },
     }),
 };
 
