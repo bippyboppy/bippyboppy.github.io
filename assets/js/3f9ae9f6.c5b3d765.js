@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[3032],{18322:e=>{e.exports=JSON.parse('{"authors":[{"name":"GratefulDaemon","page":{"permalink":"/authors/grate"},"imageURL":"https://avatars.githubusercontent.com/u/144010979?v=4","key":"grate","count":5}]}')}}]);
