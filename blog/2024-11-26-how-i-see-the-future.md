@@ -7,12 +7,12 @@ tags: [ai, vr]
 There are certain technologies that're transformative, VR and AI are examples which is why being an early adopter is absolutely vital.<!-- truncate -->
 
 
-# Virtual Reality
+## Virtual Reality
 Virtual reality is rapidly shaping up as a way to enhance and equalize access to certain spaces. As I write this, I’m in a virtual workspace with a pleasant view—not awe-inspiring, but still a clear improvement over my regular setup. Around me are virtual coworkers, which pushes me to work harder and for longer—the classic Starbucks effect. What’s remarkable is how small improvements like this can create a compounding advantage over time, all at a relatively low cost. It’s not flashy or groundbreaking in the moment, but it’s effective. This is where I see VR going in the future: not just as a tool for immersion but as a quiet, consistent way to level up daily life.
 
 this is firmly how I feel about the future.
 
-# Artificial Intelligence
+## Artificial Intelligence
 Artificial intelligence will continue to drive a wedge between those who use and understand it and those who don’t. This divide is already visible. As of right now access to compute is roughly equal regardless of typical causes of inequality.
 
 Already we can see this in a recent study[^1] AI already beats out doctors at diagnosis, it also performs about on par with them on therapy[^2] - It can also help in school environments (even when not just used for cheating)[^3] - Now this is just looking at general use, $20 a month chatGPT - imagine how much has yet to be seen, imagine the advantage of an AI that can already go and search a bunch of news sites for you and answer follow up questions abotu it, an AI that already is on par with therapists and can diagnose illnesses better than a doctor - This is before companies have even tried to make it good at these things - Imagine just the question of GPT, how much of an advantage does someone have by having and using it?

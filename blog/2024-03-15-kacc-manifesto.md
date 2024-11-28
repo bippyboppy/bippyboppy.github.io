@@ -3,7 +3,7 @@ title: k/acc manifesto
 authors: grate
 tags: [acc]
 ---
-
+## What is accelerationism?
 Accelerationism is seen as either a hateful, aggressive militant ideology or as a natural forming process - as complexity increases, capacity follows then it’s only natural that things will get quicker. <!-- truncate -->Some argue acc started with marx others argue it started with land I’m of the view marx was the origin and land was the form (though nick land should no longer be taken seriously, he now just boomer posts on twitter, at this point it’s not even worth reading his work directly since it’s explained in other works in a much more accessable form) Marx saw acc as a function of capitalism that could be stopped, overcame. Land saw it as unstoppable so embracing it is all that’s left - since then people have expanded it further - the most fitting analogy is that of a train, we’re sat on a train marxs looks out the window and notices it’s speeding up with no chance of stopping, he looks further down the track and sees the tracks ending, he wants the train to be slowed down and hopefully stopped - land looks out of the window and reaches the conclusion the train will only ever speed up so we should try and speed it up as much as possible to get it over and done with.
 
 Extended from this is the idea of “clearing the pit” the train gets so much speed it’s existing momentum at the moment of derailing might keep us going until we either land on another track or until we can build one.
@@ -12,7 +12,7 @@ One common myth is that accelerationism is right leaning, this was not true of m
 
 This should hopefully give enough of a background into acc that the rest logically follows.
 
-# Criticism of (x)/acc
+## Criticism of (x)/acc
 
 The issues with most acc subgenres is they lack coherence, formal value sets and any actual structure - they mostly fall into the catagory of thing/acc with no actual considerations A logical prerequesit (that I’m currently violating) should be to write an outline of your thing/acc before you can put it in your twitter name or bio - watch almost any interview with accelerationists and you’ll see quickly how they’ve never thought about what it actually means.
 
@@ -20,7 +20,7 @@ Beff explains eacc to lex
 
 It’s obvious from this clip that beff could explain it in simple language but chooses not to, I agree with feynman if you can’t explain it to a layman you don’t have a good enough grasp on it - watch that entire clip then ask what should an e/accer actually do? it’s laid out a value set but not a formal structure, an interesting note on that vidoe is beff claims d/acc as a fork to e/acc but I don’t know why he beleives this from the opening lines of the d/acc manifesto he explains it’s meant as a response to andreessens techno-optimist manifesto which makes me question if beff has even read it, e/acc is barely mentioned - but this isn’t meant to be focused too much on beff but unfortunately he’s the central figure and most notable in acc spaces right now even though I honest to god do not know if he’s doing anything beyond posting on twitter, he talks like he’s incredibly important but I’ve yet see anyone point to a solid thing he’s done, he’s talked about how vital open source and working in public is to progress but is incredibly evasive about the things he’s doing/working on - I’m not making the claim he’s a liar or a scammer moreso just if it’s impossible to verify if someones doing something it’s concerning - from his use of language in the clip he is knowlegable about accelerationism and seemingly the ideas of deluze and the other one but that’s what makes it even more frustrating right now (x)/acc is going through such a level of decentralisation that it’s fracturing and now the power is distributed among too many nodes and it’s potential for power growth is highly limited due to people aprehension of AI - meanwhile tenents of k/acc continue to grow in the mainstream.
 
-# Accelerationism as natural process
+## Accelerationism as natural process
 
 Look at human history and what you see is clear acceleration in all things, humans strive this striving causes creation and from creation comes complexity as complexity increases so does the potential for creation resulting in further complexity this process continues until the blissful or bitter end. But from complexity also comes a much faster rate of progression, of societal values, technology, human understanding, everything. it all requires a threshold level of complexity - this isn’t to say all forms of complexity are important and valuble, organic, inorganic and artifical all exist.
 
@@ -32,7 +32,7 @@ In essence, the process of complexity highlights the interconnectedness of human
 
 As a small note here I want to point out complexity / complicatedness, the design, manufacture and shipping of a toothbrush is highly complex, it’s also not complicated.
 
-# What is k/acc?
+## What is k/acc?
 
 k/acc or knowledge accelerationsim is a fundementally human centric approach to accelerationism - unless it furthers the goal of humans it is not included, an AI that irons clothes is disregarded, an AI that helps people learn is encouraged. k/acc is the belief that human conciousness is both unique and something we cannot replicate (though with sufficiant advancement we may come close), that a core part of that conciousness stems from knowledge and that knowledge in and of itself offers value in all aspects of life - it enables control over yourself, allows the world to be more interesting and almost every issue our species have faced and will face comes down to knowledge (or a lack of). Conflict and a lack of cooperation are no exception - without sufficiant knowledge nothing can be resolved. We are no more than an animal taking rough guesses based on memory and feelings - This has a hard limit on potential and our species overcoming this limit through knowledge is why we’ve come so much further.
 
@@ -42,7 +42,7 @@ Central to k/acc is the idea that knowledge is not just power but the very found
 
 In essence, k/acc serves as a manifesto for a future where technology and human intellect converge in a harmonious pursuit of progress and self-actualization. It is a fever dream vision of a world where every individual is empowered to be.
 
-# Why k/acc has to be the first step
+### Why k/acc has to be the first step
 
 The imperative that k/acc, be the initial step in the broader accelerationist movement stems from its foundational belief that knowledge underpins all forms of human progress and societal development. This conviction is not just philosophical but practical; before any technological, social, or political acceleration can be effectively pursued, a comprehensive and deeply ingrained understanding of knowledge as both a resource and a capability must be established.
 
@@ -52,7 +52,7 @@ The acceleration of technology and societal change brings with it a host of ethi
 
 Knowledge accelerationism fosters a sense of community and shared purpose. When individuals recognize the value of knowledge and its role in shaping the future, they are more likely to collaborate and contribute to collective endeavors. This unity is essential for the sustained, coordinated action required to navigate the challenges and opportunities of acceleration.
 
-# Directive of k/acc
+### Directive of k/acc
 
 The primary directive of k/acc, is to actively pursue and facilitate the unrestricted flow and enhancement of knowledge across all spectrums of society. This involves dismantling barriers to information accessibility and leveraging technological innovations to democratize education and intellectual growth. It asserts that every individual should have the opportunity to learn, understand, and contribute to the collective pool of human knowledge, without limitations imposed by socioeconomic status, geography, or institutional gatekeeping.
 
