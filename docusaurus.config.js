@@ -88,7 +88,7 @@ const config = {
             },
             {
               label: "Reading Logs",
-              to: "/docs/reading",
+              to: "/docs/category/reading/",
             },
           ],
         },
@@ -97,7 +97,7 @@ const config = {
           items: [
             {
               label: "2024",
-              to: "/docs/reading2024",
+              to: "/docs/reading/reading2024/",
             },
           ],
         },

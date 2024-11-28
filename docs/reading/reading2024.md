@@ -1,6 +1,26 @@
 ---
 title: Reading 2024
 ---
+This chart will not contain all books I've read this year just a cluster
+```mermaid
+quadrantChart
+    title Time and Rating
+    x-axis Poorly written --> Well written
+    y-axis Low value --> High Value
+    quadrant-1 Read
+    quadrant-2 Consider
+    quadrant-3 Do not read
+    quadrant-4 Worth considering
+    Meditations of the Pali tradition: [0.7, 0.3]
+    Pure land: [0.45, 0.6]
+    Tales of a mad yogi: [0.57, 0.69]
+    The life of milarepa: [0.78, 0.34]
+    Timenergy: [0.05, 0.08]
+    Warrior of zen: [0.35, 0.9]
+    Doing good better: [0.8, 0.85]
+    I, Robot: [0.95, 0.7]
+```
+
 
 # Buddhism [10/11][90%]
 - DONE Pure land, Jones
