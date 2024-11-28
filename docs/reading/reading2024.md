@@ -1,16 +1,46 @@
 ---
-title: Reading Log
-sidebar_position: 2
+title: Reading 2024
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+# Buddhism [10/11][90%]
+- DONE Pure land, Jones
+- DONE The life of milarepa
+- DONE The buddhist and the ethicist
+- DONE Meditations of the Pali tradition
+- DONE Death was his koan
+- DONE Entry into the inconceivable
+- DONE The four sublime states
+- DONE Dhammapada, Gil Fronsdal
+- DONE Tales of a mad yogi
+- DONE Warrior of zen
 
-This is a longform log of my reading each year, I also write up a yearly blog post.
+# Politics [7/7][100%]
+- DONE Doing good better, MacAskill
+- DONE Timenergy
+  - Terrible, don't bother
+- DONE Communist Manifesto
+- DONE Postcapitalist Desire
+- DONE Timenergy
+- DONE Age of anxiety
+
+# Philosophy [2/2][100%]
+- DONE Dune and philosophy, Decker
+- DONE Mans search for meaning
+
+# Technology [2/5][40%]
+- DONE Crypto Crackup, Bennington
+- DONE The simulation unplugged, Zouev
+
+# Fiction [1/1][100%]
+- DONE Dharma Bums
+
+# Science Fiction [1/1][100%]
+- DONE I, Robot - Asimov
+  - Really good
 
 
-<Tabs>
-  <TabItem value="2024" label="2024" default>
+# Time log
+
   | Headline                              | Time       |      |
   |---------------------------------------|-----------|------|
   | **Total time**                        | **2d 8:38** |      |
@@ -40,16 +70,3 @@ This is a longform log of my reading each year, I also write up a yearly blog po
   | \_ Dharma Bums                        |           | 3:46 |
   | **Science Fiction [1/1][100%]**       | 4:19       |      |
   | \_ I, Robot - Asimov                  |           | 4:19 |
-
-# Buddhism [10/11][90%]
-# Politics [7/7][100%]
-# Philosophy [2/2][100%]
-# Technology [2/5][40%]
-# Fiction [1/1][100%]
-# Logic [0/1][0%]
-# Science Fiction [1/1][100%]
-
-This is the entire year, formatting might be off due to it originating from an ORG file
-
-  </TabItem>
-</Tabs>

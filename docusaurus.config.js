@@ -9,6 +9,10 @@ const config = {
   title: "Samsaric",
   tagline: "Noise",
   favicon: "img/favicon.ico",
+  plugins: ["@docusaurus/theme-mermaid"],
+  markdown: {
+    mermaid: true,
+  },
 
   // Production URL of your site
   url: "https://bippyboppy.github.io",
@@ -34,12 +38,22 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          versions: {
+            current: {
+              label: "Next",
+              path: "next",
+              banner: "unreleased",
+            },
+          },
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
             "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
         },
         blog: {
           showReadingTime: true,
+          showLastUpdateTime: true, // Show the last edit time
           routeBasePath: "/", // Set the blog to be served at the root URL
           postsPerPage: 5,
           exclude: ["drafts/**"],
@@ -89,8 +103,30 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Predictions",
+                to: "/docs/predictions",
+              },
+              {
+                label: "Reading Logs",
+                to: "/docs/reading",
+              },
+            ],
+          },
+          {
+            title: "Reading",
+            items: [
+              {
+                label: "2024",
+                to: "/docs/reading2024",
+              },
+            ],
+          },
+          {
+            title: "Blog posts",
+            items: [
+              {
+                label: "k/acc manifesto",
+                to: "/2024/03/15/kacc-manifesto",
               },
             ],
           },
@@ -98,17 +134,13 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/bippyboppy",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyleft © ${new Date().getFullYear()} Samsaric, Inc. Built with Docusaurus.`,
       },
       algolia: {
         appId: "SUKJBSPLKI",

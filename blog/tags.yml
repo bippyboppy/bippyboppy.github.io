@@ -17,3 +17,18 @@ mindset:
   label: Mindset
   permalink: /mindset
   description: Things relating to thinking patterns and the mind broadly
+
+peta:
+  label: PETA
+  permalink: /peta
+  description: Things relating to PETA
+
+vegan:
+  label: Veganism
+  permalink: /vegan
+  description: Things related to veganism
+
+deep:
+  label: Deep Dive
+  permalink: /dive
+  description: Research on a topic
