@@ -57,6 +57,8 @@ const config = {
           routeBasePath: "/", // Set the blog to be served at the root URL
           postsPerPage: 5,
           exclude: ["drafts/**"],
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
           editUrl:
             "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
         },
