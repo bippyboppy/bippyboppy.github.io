@@ -1,0 +1,60 @@
+---
+title: Types of buddhism
+sidebar_position: 1
+---
+This document is not meant to be complete or exhaustive.
+
+# Buddhism
+```mermaid
+flowchart TD
+    n1["Buddhism"] --> n2["Theravada"] & n3["Mahayana"] & n11["Vajrayana"]
+```
+
+# Theravada
+```mermaid
+flowchart TD
+    n1["Theravada"] --> n2["Thai Forest"]
+    n1 --> n3["Sri Lankan Theravada"]
+    n1 --> n4["Burmese Vipassana"]
+```
+Theravada Buddhism, often considered the oldest school, is grounded in the teachings of the Pali Canon. It emphasizes individual enlightenment through the practices the historical Buddha recommended, including morality (sila), meditation (samadhi), and wisdom (panna). This path, sometimes called the “Path of the Elders,” is prominent in Southeast Asian countries like Thailand, Sri Lanka, and Myanmar. Theravada places significant focus on the monastic community (sangha) and encourages lay practitioners to support and learn from the monastics, who follow the Eightfold Path to attain Nirvana, the cessation of suffering.
+
+# Mahayana
+```mermaid
+flowchart TD
+    n1["Mahayana"] --> n2["Pure Land"] & n3["Chan"]
+
+    %% Pure Land Sub-branch
+    n2 --> n5["Jodo-shu"]
+    n2 --> n6["Jodo Shinshu"]
+
+    %% Chan Sub-branch
+    n3 --> n9["Seon"]
+    n3 --> n10["Zen"]
+    n3 --> n13["Yunmen"]
+    n3 --> n14["Fayan"]
+
+    %% Zen Sub-branch
+    n10 --> n15["Rinzai"]
+    n10 --> n16["Soto"]
+    n10 --> n17["Obaku"]
+```
+
+## Zen
+Zen Buddhism, rooted in Mahayana traditions, places great emphasis on meditation and direct insight over textual study. Originating in China as Chan Buddhism, Zen migrated to Japan, where it became known as “Zen.” The central practice is zazen (sitting meditation), which aims to quiet the mind and allow insight into the nature of reality and the concept of “no-self.” Zen teachings focus on direct experience and personal realization, often using koans (paradoxical statements or questions) to transcend rational thought. Zen’s approach is minimalist, emphasizing simplicity and the importance of the present moment.
+
+## Pure land
+Pure Land Buddhism is centered on faith in the compassionate bodhisattva Amitabha (or Amida) Buddha, who vowed to create a “Pure Land” for all who sincerely wish to be reborn there. This tradition, especially popular in East Asia (China, Japan, Korea, and Vietnam), views the Pure Land as a place free from suffering, where practitioners can continue their spiritual practice under ideal conditions. The core practice is reciting Amitabha’s name, often as a mantra, to foster mindfulness and devotion. Pure Land Buddhism is accessible to all, requiring no intensive meditation or scholarly understanding, thus appealing widely across social classes.
+
+# Vajrayana
+```mermaid
+flowchart TD
+    n1["Vajrayana"] --> n2["Tibetan Buddhism"] & n3["Mongolian Buddhism"] & n4["Japanese Shingon"]
+
+    %% Tibetan Sub-branch
+    n2 --> n5["Nyingma"]
+    n2 --> n6["Kagyu"]
+    n2 --> n7["Sakya"]
+    n2 --> n8["Gelug"]
+```
+Tibetan Buddhism, also known as Vajrayana or Tantric Buddhism, integrates Mahayana teachings with esoteric practices and rituals developed in Tibet. It emphasizes the potential for enlightenment within one’s lifetime, often through the use of mantras, visualizations, and complex rituals. Tibetan Buddhism is known for its rich symbolism, colorful thangka paintings, mandalas, and the central role of lamas (spiritual teachers), with the Dalai Lama being the most recognized figure. The tradition includes unique practices like lojong (mind training) and Dzogchen (Great Perfection), focusing on direct recognition of one’s Buddha-nature. Tibetan Buddhism is prevalent in Tibet, Nepal, Bhutan, and parts of India.
