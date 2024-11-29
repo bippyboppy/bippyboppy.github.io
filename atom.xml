@@ -62,6 +62,36 @@
         <category label="Virtual Reality" term="Virtual Reality"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microplastics]]></title>
+        <id>https://bippyboppy.github.io/2024/11/12/microplastics</id>
+        <link href="https://bippyboppy.github.io/2024/11/12/microplastics"/>
+        <updated>2024-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There's plastic everywhere and in everything]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="theres-plastic-everywhere-and-in-everything">There's plastic everywhere and in everything<a href="https://bippyboppy.github.io/2024/11/12/microplastics#theres-plastic-everywhere-and-in-everything" class="hash-link" aria-label="Direct link to There's plastic everywhere and in everything" title="Direct link to There's plastic everywhere and in everything">​</a></h2>
+<p>A common view is that there is no point in caring about microplastics because it's a hopeless situation, this is not only ill-informed but also myopic - the vast majority of microplastics we ingest come from a few easy to control sources.</p>
+<p>"There's microplasics everywhere so why even bother trying to limit your consumption" should be mocked to the same extent as "You can't go outside without being exposed to vape smoke so you may aswell start vaping yourself" It's near certain that microplastics are a net negative to your health so you absolutely should limit consumption.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-you-should-know">What you should know<a href="https://bippyboppy.github.io/2024/11/12/microplastics#what-you-should-know" class="hash-link" aria-label="Direct link to What you should know" title="Direct link to What you should know">​</a></h2>
+<p>For the average person most microplastics they ingest come from (in order)</p>
+<ol>
+<li>Seafood</li>
+<li>Plastic storage</li>
+<li>Inhalation</li>
+<li>Misc produce</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="practical-takeaways">Practical takeaways<a href="https://bippyboppy.github.io/2024/11/12/microplastics#practical-takeaways" class="hash-link" aria-label="Direct link to Practical takeaways" title="Direct link to Practical takeaways">​</a></h2>
+<p>Considering this it's actually very low effort and quick to eliminate the vast majority of microplastics</p>
+<ul>
+<li>(1) is self evident, limit your intake of seafood (sea salt is very high in microplastics as well so if you don't have issues with it synthetic table salt might be better)</li>
+<li>(2) is things like plastic bottles and reheating food in plastic containers, plastic storage should be a concern when either (a) the plastic is flexible each time it flexes it leaches microplastics so things like plastic water bottles are obviously bad (b) hard plastic, things like tupperware are bad when they're frozen or heated but can be easily swapped out for some borosilicate glass containers since they're durable, microwave safe and stop your food coming into contact with plastic - so swapping for a reusable water bottle (tap water is way lower in microplastics and in a lot of parts of the UK microplastics are filtered out, the vast majority of the UKs tap water also isn't fluridated making it a pretty good choice even without additional filtering)</li>
+<li>(3) This is mostly a product of living in a plastic dense environment and not going otuside, that being said even disregarding microplastics investing in a <a href="https://www.cleanairkits.com/products/exhalaron?variant=49803333665068" target="_blank" rel="noopener noreferrer">Air purifier</a> that's HEPA and has high efficiency means you can leave it running 24/7 at low cost and high yield - most consumer air purifiers are terribly designed then avoid microfibre bedsheets and opts for cotton or bamboo instead since it's a flexible plastic you roll around on for 8 hours a day - in terms of clothing avoiding plastic clothing is probably a good idea but in my estimation more effort than it's worth (polyester is the most common plastic clothing you'll find)</li>
+<li>(4) is mostly vegtables and fruit, easily remidied by rinsing under the tap, which you should do regardless for the pesticide risk.</li>
+</ul>]]></content>
+        <author>
+            <name>GratefulDaemon</name>
+        </author>
+        <category label="Health" term="Health"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Accelerationists stand still]]></title>
         <id>https://bippyboppy.github.io/2024/08/16/accelerationists-stand-still</id>
         <link href="https://bippyboppy.github.io/2024/08/16/accelerationists-stand-still"/>
@@ -73,6 +103,29 @@
             <name>GratefulDaemon</name>
         </author>
         <category label="Accelerationism" term="Accelerationism"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rokos basilisk is worthless trash]]></title>
+        <id>https://bippyboppy.github.io/2024/08/16/rokos-worthless</id>
+        <link href="https://bippyboppy.github.io/2024/08/16/rokos-worthless"/>
+        <updated>2024-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rokos basilisk is dumb and you should feel bad for taking it seriously]]></summary>
+        <content type="html"><![CDATA[<p>Rokos basilisk is dumb and you should feel bad for taking it seriously </p>
+<blockquote>
+<p>Roko’s basilisk is a thought experiment which states that an otherwise benevolent artificial superintelligence (AI) in the future would be incentivized to create a virtual reality simulation to torture anyone who knew of its potential existence but did not directly contribute to its advancement or development, in order to incentivize said advancement.</p>
+</blockquote>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-flaw-in-the-premise">The flaw in the premise<a href="https://bippyboppy.github.io/2024/08/16/rokos-worthless#the-flaw-in-the-premise" class="hash-link" aria-label="Direct link to The flaw in the premise" title="Direct link to The flaw in the premise">​</a></h2>
+<p>The conditions of the premise are</p>
+<ol>
+<li>Superintelligent AI will occur</li>
+<li>It would want to incentivize it’s own creation through future risk</li>
+</ol>
+<p>Now (2) leads to the advancement through people in the past being aware the AI will punish them, but the punishment is actually pointless, simulating a virtual reality tourture is resource intensive and doing it after the AI exists adds no benefit beyond what is actually likely, the AI would want people to think it will torture them if they don’t help, because that would incentivize it’s future creation as much as actual torture would but without the additional risk since if it came out AI was torturing people for their past actions it would reflect poorly on the AI - Actual torture vs convincing people of torture would lead to the same positive outcomes for the AI without the same risk.</p>
+<p>The AI is both superintelligent and dumber than a bag of rocks, as is the case with most fearmongering “thought experiments” about AI.</p>]]></content>
+        <author>
+            <name>GratefulDaemon</name>
+        </author>
+        <category label="AI" term="AI"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pessimism Kills]]></title>
