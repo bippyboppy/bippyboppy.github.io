@@ -1,28 +1,16 @@
 ---
 title: Reading 2024
 ---
-This chart will not contain all books I've read this year just a cluster
 ```mermaid
-quadrantChart
-    title Time and Rating
-    x-axis Poorly written --> Well written
-    y-axis Low value --> High Value
-    quadrant-1 Read
-    quadrant-2 Consider
-    quadrant-3 Do not read
-    quadrant-4 Worth considering
-    Meditations of the Pali tradition: [0.7, 0.3]
-    Pure land: [0.45, 0.6]
-    Tales of a mad yogi: [0.57, 0.69]
-    The life of milarepa: [0.78, 0.34]
-    Timenergy: [0.05, 0.08]
-    Warrior of zen: [0.35, 0.9]
-    Doing good better: [0.8, 0.85]
-    I, Robot: [0.95, 0.7]
+sankey-beta
+Read-,Buddhism-,10
+Read-,Politics-,7
+Read-,Philosophy-,2
+Read-,Technology-,2
+Read-,Fiction-,2
 ```
 
-
-# Buddhism [10/11][90%]
+## Buddhism [10/11][90%]
 - DONE Pure land, Jones
 - DONE The life of milarepa
 - DONE The buddhist and the ethicist
@@ -34,7 +22,7 @@ quadrantChart
 - DONE Tales of a mad yogi
 - DONE Warrior of zen
 
-# Politics [7/7][100%]
+## Politics [7/7][100%]
 - DONE Doing good better, MacAskill
 - DONE Timenergy
   - Terrible, don't bother
@@ -43,23 +31,23 @@ quadrantChart
 - DONE Timenergy
 - DONE Age of anxiety
 
-# Philosophy [2/2][100%]
+## Philosophy [2/2][100%]
 - DONE Dune and philosophy, Decker
 - DONE Mans search for meaning
 
-# Technology [2/5][40%]
+## Technology [2/5][40%]
 - DONE Crypto Crackup, Bennington
 - DONE The simulation unplugged, Zouev
 
-# Fiction [1/1][100%]
+## Fiction [1/1][100%]
 - DONE Dharma Bums
 
-# Science Fiction [1/1][100%]
+## Science Fiction [1/1][100%]
 - DONE I, Robot - Asimov
   - Really good
 
 
-# Time log
+## Time log
 
   | Headline                              | Time       |      |
   |---------------------------------------|-----------|------|

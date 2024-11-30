@@ -32,3 +32,8 @@ deep:
   label: Deep Dive
   permalink: /dive
   description: Research on a topic
+
+health:
+  label: Health
+  permalink: /health
+  description: Relating to health

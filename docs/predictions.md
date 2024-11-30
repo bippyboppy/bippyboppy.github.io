@@ -2,12 +2,25 @@
 title: Predictions
 sidebar_position: 2
 ---
+## Predictions by grouping
+```mermaid
+sankey-beta
+Predictions-,Correct-,2
+Correct-,Overconfident--,0
+Correct-,Underconfident--,2
+
+Predictions-,Incorrect-,1
+Incorrect-,Overconfident-,1
+Incorrect-,Underconfident-,0
+```
+
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Summary" label="Summary" default>
+## Summary
 - [55% Confidence <code>[/]</code> <code>[%]</code>](#orgb7ba1a4)
 - [65% Confidence <code>[/]</code> <code>[%]</code>](#org0b162c6)
 - [75% Confidence <code>[/]</code> <code>[%]</code>](#org58aec5a)

@@ -1,8 +1,100 @@
 ---
-title: Mermaid
+title: Docusaurus
+sidebar_position: 2
 ---
 
-# Graph
+## Frontmatter
+```
+---
+title:
+authors:
+tags: []
+---
+
+
+<!-- truncate -->
+```
+
+## Workflow
+Updating the site
+1. Push to main branch
+```
+git add .
+git commit -m "Update docs"
+git push origin main
+```
+2. Deploy to gh-pages branch
+```
+export GIT_USER=bippyboppy
+npm run deploy
+```
+
+## Alerts
+```
+
+:::note
+
+Here's some **information** with _Markdown_ styling.
+
+:::
+
+:::tip
+
+Here's a **helpful tip** with _formatted text_.
+
+:::
+
+:::info
+
+Here's some **useful info** presented in a clear way.
+
+:::
+
+:::caution
+
+Please take **extra caution** with this important note.
+
+:::
+
+:::danger
+
+This is a **dangerous situation** you need to be aware of.
+
+:::
+
+:::note This is a _custom title_
+
+And you can add images as well.
+
+![alt text](https://picsum.photos/600/400)
+
+:::
+```
+
+## Tabs
+```
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="book" label="Book" default>
+    Dive into the world of knowledge with a captivating book 📚
+  </TabItem>
+  <TabItem value="painting" label="Painting">
+    Admire the strokes of artistry on a beautiful painting 🖼️
+  </TabItem>
+  <TabItem value="music" label="Music">
+    Let the soothing melodies of music transport you 🎶
+  </TabItem>
+</Tabs>
+
+I'm a text that doesn't belong to any tab. So I'm always visible.
+```
+
+## Mermaid Charts
+
+### Graph
 
 ```
 graph TD;
@@ -20,7 +112,7 @@ graph TD;
   C-->D;
 ```
 ---
-# Quadrant Chart
+### Quadrant Chart
 ```
 quadrantChart
     title Reach and engagement of campaigns
@@ -56,7 +148,7 @@ quadrantChart
 ```
 
 ---
-# XY Chart
+### XY Chart
 ```
     xychart-beta
     title "Sales Revenue"
@@ -74,7 +166,7 @@ quadrantChart
     line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
 ```
 ---
-# Flowchart
+### Flowchart
 ```
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
@@ -92,7 +184,7 @@ flowchart TD
     C -->|Three| F[fa:fa-car Car]
 ```
 ---
-# Git Graph
+### Git Graph
 ```
 gitGraph
     commit
@@ -121,7 +213,7 @@ gitGraph
     commit
 ```
 ---
-# Gantt
+### Gantt
 ```
 gantt
     title A Gantt Diagram
@@ -145,7 +237,7 @@ gantt
     another task      : 24d
 ```
 ---
-# Mindmap
+### Mindmap
 ```
 mindmap
   root((mindmap))
@@ -185,7 +277,7 @@ mindmap
       Mermaid
 ```
 ---
-# Pie chart
+### Pie chart
 ```
 pie title Pets adopted by volunteers
     "Dogs" : 386

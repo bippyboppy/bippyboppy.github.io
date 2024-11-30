@@ -6,18 +6,18 @@ This document is not meant to be complete or exhaustive.
 ```mermaid
 mindmap
   root((Buddhism))
-    ***Theravada***
+    *Theravada*
       Thai Forest
       Sri Lankan Theravada
       Burmese Vipassana
 
-    ***Mahayana***
-      ***Pure Land***
+    *Mahayana*
+      **Pure Land**
         Jodo-shu
         Jodo Shinshu
-      ***Chan***
+      *Chan*
         Seon
-        ***Zen***
+        *Zen*
           Rinzai
           Soto
           Obaku
@@ -25,8 +25,8 @@ mindmap
         Fayan
 
 
-    ***Vajrayana***
-      ***Tibetan***
+    *Vajrayana*
+      *Tibetan*
         Nyingma
         Kagyu
         Sakya

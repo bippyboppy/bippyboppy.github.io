@@ -38,6 +38,8 @@ const config = {
           showReadingTime: true,
           routeBasePath: "/",
           postsPerPage: 5,
+          blogSidebarTitle: "All posts",
+          blogSidebarCount: "ALL",
           exclude: ["drafts/**"],
           editUrl:
             "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
