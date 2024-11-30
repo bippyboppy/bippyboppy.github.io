@@ -135,6 +135,14 @@ const config = {
       maxHeadingLevel: 4, // Include up to `###`
     },
   },
+
+  scripts: [
+    {
+      src: "https://plausible.io/js/script.js",
+      defer: true,
+      "data-domain": "bippyboppy.github.io",
+    },
+  ],
 };
 
 export default config;

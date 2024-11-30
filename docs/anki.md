@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 ## What is this?
-Anki is a popular flashcard software, In this document you'll find a backup of my flashcards by catagory, I've included them as plaintext (below) or [here](/predictions) as anki backup files
+Anki is a popular flashcard software, In this document you'll find a backup of my flashcards by catagory, I've included them as plaintext (below) or [here](https://github.com/bippyboppy/bippyboppy.github.io/raw/refs/heads/main/docs/assets/anki.apkg) as anki backup files
 
 ## Artificial Intelligence
 ```
