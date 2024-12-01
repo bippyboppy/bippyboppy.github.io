@@ -9,8 +9,8 @@ Predictions-,Correct-,2
 Correct-,Overconfident--,0
 Correct-,Underconfident--,2
 
-Predictions-,Incorrect-,1
-Incorrect-,Overconfident-,1
+Predictions-,Incorrect-,2
+Incorrect-,Overconfident-,2
 Incorrect-,Underconfident-,0
 ```
 

@@ -40,6 +40,8 @@ const config = {
           postsPerPage: 5,
           blogSidebarTitle: "All posts",
           blogSidebarCount: "ALL",
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
           exclude: ["drafts/**"],
           editUrl:
             "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
@@ -70,7 +72,7 @@ const config = {
           position: "left",
           label: "Docs",
         },
-        { to: "/tags", label: "Tags", position: "left" },
+        { to: "/", label: "Blog", position: "left" },
         {
           href: "https://github.com/bippyboppy/",
           label: "GitHub",
