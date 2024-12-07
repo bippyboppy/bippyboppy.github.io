@@ -1,0 +1,8 @@
+{
+  "label": "Apple Notes",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This is an automated export from apple notes, some things might be broken, some notes might not look right, apple doesn't have a supported way to export to markdown"
+  }
+}

@@ -37,3 +37,13 @@ health:
   label: Health
   permalink: /health
   description: Relating to health
+
+social media:
+  label: Social Media
+  permalink: /social-media
+  description: Relating to social media
+
+technology:
+  label: Tech
+  permalink: /tech
+  description: Relating to tech (but usually not its subcatagories)

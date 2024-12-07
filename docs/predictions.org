@@ -8,6 +8,7 @@
 * 85% Confidence [0/1] [0%]
 ** INCORRECT Kamala will win (02-11-24)
 ** ATI ($60.29>$65)
+** MAIS (RFLC)
 * 95% Confidence [2/2] [100%]
 ** CORRECT Jake paul wins against mike tyson
 ** CORRECT If trump wins TSLA and DJT will pump from current value (243.75/28.76)

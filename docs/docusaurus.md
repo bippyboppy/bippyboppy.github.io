@@ -30,46 +30,68 @@ npm run deploy
 ```
 
 ## Alerts
-```
-
+### Note
 :::note
-
 Here's some **information** with _Markdown_ styling.
-
 :::
-
+```
+:::note
+Here's some **information** with _Markdown_ styling.
+:::
+```
+---
+### Tip
 :::tip
-
 Here's a **helpful tip** with _formatted text_.
-
 :::
-
+```
+:::tip
+Here's a **helpful tip** with _formatted text_.
+:::
+```
+---
+### Info
 :::info
-
 Here's some **useful info** presented in a clear way.
-
 :::
-
+```
+:::info
+Here's some **useful info** presented in a clear way.
+:::
+```
+---
+### Caution
 :::caution
-
 Please take **extra caution** with this important note.
-
 :::
-
+```
+:::caution
+Please take **extra caution** with this important note.
+:::
+```
+---
+### Danger
 :::danger
-
 This is a **dangerous situation** you need to be aware of.
-
 :::
+```
+:::danger
+This is a **dangerous situation** you need to be aware of.
+:::
+```
+---
 
 :::note This is a _custom title_
-
 And you can add images as well.
-
 ![alt text](https://picsum.photos/600/400)
-
 :::
 ```
+:::note This is a _custom title_
+And you can add images as well.
+![alt text](https://picsum.photos/600/400)
+:::
+```
+
 
 ## Tabs
 ```

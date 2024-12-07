@@ -30,7 +30,7 @@ import TabItem from '@theme/TabItem';
 The workflow for predictions isn't that clean but I try to keep it updated
   </TabItem>
   <TabItem value="rawdata" label="Raw Data">
-The [raw data](https://raw.githubusercontent.com/bippyboppy/bippyboppy.github.io/refs/heads/main/docs/predictions.org) is kept in an org file on the main branch
+The [raw data](https://raw.githubusercontent.com/bippyboppy/bippyboppy.github.io/refs/heads/main/docs/predictions.org) is kept in an org file on the main branch, any predictions about personal life are usually using a shorthand
   </TabItem>
 </Tabs>
 

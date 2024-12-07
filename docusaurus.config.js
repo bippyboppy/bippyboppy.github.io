@@ -66,13 +66,8 @@ const config = {
         src: "img/logo.svg",
       },
       items: [
-        {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
-          position: "left",
-          label: "Docs",
-        },
         { to: "/", label: "Blog", position: "left" },
+        { to: "/docs/intro", label: "Docs", position: "left" },
         {
           href: "https://github.com/bippyboppy/",
           label: "GitHub",

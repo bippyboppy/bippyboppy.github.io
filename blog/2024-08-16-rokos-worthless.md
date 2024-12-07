@@ -1,7 +1,7 @@
 ---
 title: rokos basilisk is worthless trash
 authors: grate
-tags: [AI]
+tags: [ai]
 ---
 
 Rokos basilisk is dumb and you should feel bad for taking it seriously <!-- truncate -->
