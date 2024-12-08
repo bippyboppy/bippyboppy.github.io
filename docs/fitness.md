@@ -14,7 +14,7 @@ This is a self test of the accuracy of an iphone tracking my runs on a treadmill
 | Placement | Phone | Treadmill | Duration   | Accuracy |
 |:----------|:------|:----------|------------|----------|
 | Pocket    | 0.56  | 0.36      | 5 minutes  | +55%     |
-| Pocket    |       |           | 5 minutes  |          |
+| Pocket    | 0.39  | 0.36      | 5 minutes  | +8.33%   |
 | Hand      |       |           | 5 minutes  |          |
 | Hand      |       |           | 5 minutes  |          |
 | Pocket    |       |           | 10 minutes |          |
@@ -26,6 +26,7 @@ This is a self test of the accuracy of an iphone tracking my runs on a treadmill
 | Hand      |       |           | 15 minutes |          |
 | Hand      |       |           | 15 minutes |          |
 
+phone/treadmill*100
 
 ## App 
 I use the [miles](https://milesrunning.app) app, it's simple, cheap and no thrills.
