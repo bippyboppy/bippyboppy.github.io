@@ -1,6 +1,5 @@
 ---
 title: Predictions
-sidebar_position: 2
 ---
 ## Predictions by grouping
 ```mermaid

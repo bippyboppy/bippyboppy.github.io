@@ -7,3 +7,4 @@ sidebar_position: 1
 
 # Notable Links
 - [predictions](https://bippyboppy.github.io/docs/predictions)
+- [Most recent book](/docs/book%20exports/goinginfinite)

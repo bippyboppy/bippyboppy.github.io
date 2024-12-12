@@ -68,6 +68,7 @@ const config = {
       items: [
         { to: "/", label: "Blog", position: "left" },
         { to: "/docs/intro", label: "Docs", position: "left" },
+        { to: "/docs/about", label: "About", position: "left" },
         {
           href: "https://github.com/bippyboppy/",
           label: "GitHub",

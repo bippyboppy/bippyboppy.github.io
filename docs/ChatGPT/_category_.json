@@ -1,5 +1,6 @@
 {
   "label": "GPT Exports",
+  "position": 2.1,
   "link": {
     "type": "generated-index",
     "description": "Some exports from my conversations with ChatGPT"
