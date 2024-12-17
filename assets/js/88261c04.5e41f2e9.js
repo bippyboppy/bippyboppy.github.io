@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[3287],{1047:t=>{t.exports=JSON.parse('{"tag":{"label":"ethics","permalink":"/tags/ethics","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/ethics","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
