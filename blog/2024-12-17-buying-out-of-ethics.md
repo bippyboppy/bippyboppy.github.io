@@ -4,7 +4,7 @@ authors: grate
 tags: [ethics]
 ---
 
-I’ve noticed a recurring argument in EA spaces around veganism: “If I donate enough money to effective animal charities, I’ll save more animals than I would by going vegan. So, I don’t need to personally stop consuming animal products.” While this may sound compelling on the surface, I believe it fails for several reasons—both ethically and practically.
+I’ve noticed a recurring argument in EA spaces around veganism: “If I donate enough money to effective animal charities, I’ll save more animals than I would by going vegan. So, I don’t need to personally stop consuming animal products.” While this may sound compelling on the surface, I believe it fails for several reasons—both ethically and practically.  <!-- truncate -->
 
 ## First-Order Utilitarianism Can Justify Harm
 
