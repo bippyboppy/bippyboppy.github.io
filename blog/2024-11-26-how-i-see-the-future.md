@@ -6,8 +6,8 @@ tags: [ai, vr]
 
 There are certain technologies that're transformative, VR and AI are examples which is why being an early adopter is absolutely vital.<!-- truncate -->
 
-
 ## Virtual Reality
+
 Virtual reality is rapidly shaping up as a way to enhance and equalize access to certain spaces. As I write this, I’m in a virtual workspace with a pleasant view—not awe-inspiring, but still a clear improvement over my regular setup. Around me are virtual coworkers, which pushes me to work harder and for longer—the classic Starbucks effect. What’s remarkable is how small improvements like this can create a compounding advantage over time, all at a relatively low cost. It’s not flashy or groundbreaking in the moment, but it’s effective. This is where I see VR going in the future: not just as a tool for immersion but as a quiet, consistent way to level up daily life.
 
 this is firmly how I feel about the future.
@@ -33,3 +33,4 @@ As time goes on, these technologies won’t just feel transformative—they’ll
 [^2]: Naher, Jibon. ‘Can ChatGPT Provide a Better Support: A Comparative Analysis of ChatGPT and Dataset Responses in Mental Health Dialogues’. Current Psychology 43, no. 28 (1 July 2024): 23837–45. https://doi.org/10.1007/s12144-024-06140-z
 
 [^3]: Mai, Duong Thi Thuy, Can Van Da, and Nguyen Van Hanh. ‘The Use of ChatGPT in Teaching and Learning: A Systematic Review through SWOT Analysis Approach’. Frontiers in Education 9 (9 February 2024). https://doi.org/10.3389/feduc.2024.1328769
+
