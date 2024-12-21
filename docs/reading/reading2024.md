@@ -1,6 +1,12 @@
 ---
 title: Reading 2024
+
 ---
+
+
+
+
+
 ```mermaid
 sankey-beta
 Read-,Fiction-,2
@@ -18,6 +24,7 @@ Non-Fiction-,Technology-,3
 ## Logs
 
 ### Buddhism
+
 - Pure Land, Jones
 - The life of milarepa
 - The buddhist and the ethicist
