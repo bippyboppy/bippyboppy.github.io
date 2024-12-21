@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bippyboppy.github.io/</id>
     <title>Samsaric Blog</title>
-    <updated>2024-12-17T00:00:00.000Z</updated>
+    <updated>2024-12-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bippyboppy.github.io/"/>
     <subtitle>Samsaric Blog</subtitle>
     <icon>https://bippyboppy.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why people don't watch at 1x speed]]></title>
+        <id>https://bippyboppy.github.io/2024/12/21/why-people-dont-watch-1x</id>
+        <link href="https://bippyboppy.github.io/2024/12/21/why-people-dont-watch-1x"/>
+        <updated>2024-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[YouTube users are increasingly watching videos at faster speeds, saving over 900 years of video time per day]]></summary>
+        <content type="html"><![CDATA[<p>YouTube users are increasingly watching videos at faster speeds, saving over 900 years of video time per day</p>
+<p>The most commonly used speeds are 1.5x and 2x, This trend is not necessarily due to decreasing attention spans, but I think is a response to changes in video content and structure.</p>
+<p>YouTube content can range from 5-15 minutes, catering to different audience expectations and content consumption patterns</p>
+<p>Creators are motivated to make longer videos, often stretching content to reach 10-15-20 minutes.</p>
+<p>As videos get longer, the information density (amount of useful information per unit of time) usually decreases.</p>
+<p>people may use faster speeds to consume the same amount of information in less time.</p>
+<p>Viewers tend to use faster playback speeds as the day progresses The use of faster speeds dips around dinnertime, before picking up again later in the evening 10. I think this is because viewers are actively managing their time and information intake by adjusting video speed.</p>
+<p>Creators should consider the information density of their videos.
+Stretching content to reach a certain video length may lead to lower information density and encourage viewers to use faster speeds.
+Creators may need to adapt their content strategies to align with these viewer behaviors. This has now moved outward even to "educational" content, almost all educational content on youtube could either be a blog post (that you could read in a fraction of the time) or the video could be cut almost in half without any value being lost.</p>]]></content>
+        <author>
+            <name>GratefulDaemon</name>
+        </author>
+        <category label="Tech" term="Tech"/>
+        <category label="Social Media" term="Social Media"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Buying your way out of personal ethics]]></title>
         <id>https://bippyboppy.github.io/2024/12/17/buying-out-of-ethics</id>
