@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocu=self.webpackChunkdocu||[]).push([[1681],{5077:t=>{t.exports=JSON.parse('{"tag":{"label":"productivity","permalink":"/tags/productivity","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/productivity","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
