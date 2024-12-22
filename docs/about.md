@@ -34,7 +34,7 @@ bc1qpjf469agrrx52zs8z4jxc6rytlrkewlh5x4quk
 9LLDHWqsWMiUpyFLax9HBqGXHrUNJWdvVMyqqHhgkMTi
 ```
 
-#### PGP
+### PGP
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

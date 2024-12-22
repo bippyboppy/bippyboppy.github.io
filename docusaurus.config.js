@@ -33,6 +33,8 @@ const config = {
             "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
+          remarkPlugins: [require("remark-math")],
+          rehypePlugins: [require("rehype-katex")],
         },
         blog: {
           showReadingTime: true,
@@ -45,6 +47,8 @@ const config = {
           exclude: ["drafts/**"],
           editUrl:
             "https://github.com/bippyboppy/bippyboppy.github.io/tree/main",
+          remarkPlugins: [require("remark-math")],
+          rehypePlugins: [require("rehype-katex")],
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -58,6 +62,11 @@ const config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: "dark", // Default to dark mode
+      disableSwitch: false, // Allow users to toggle between modes
+      respectPrefersColorScheme: false, // Ignore the system's color scheme
+    },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Samsaric",
@@ -134,11 +143,13 @@ const config = {
     },
   },
 
-  scripts: [
+  stylesheets: [
     {
-      src: "https://plausible.io/js/script.js",
-      defer: true,
-      "data-domain": "bippyboppy.github.io",
+      href: "https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css",
+      type: "text/css",
+      integrity:
+        "sha384-vZTG0k2vpPCoSyyOn8dwU02MZn0sw5HHjq5cXB2zhydUU4IiW3eFIWqh9Alyuw7+",
+      crossorigin: "anonymous",
     },
   ],
 };
