@@ -2,11 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bippyboppy.github.io/</id>
     <title>Samsaric Blog</title>
-    <updated>2024-12-29T00:00:00.000Z</updated>
+    <updated>2024-12-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bippyboppy.github.io/"/>
     <subtitle>Samsaric Blog</subtitle>
     <icon>https://bippyboppy.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Reading 2024]]></title>
+        <id>https://bippyboppy.github.io/2024/12/31/reading2024</id>
+        <link href="https://bippyboppy.github.io/2024/12/31/reading2024"/>
+        <updated>2024-12-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Logs]]></summary>
+        <content type="html"><![CDATA[
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="logs">Logs<a href="https://bippyboppy.github.io/2024/12/31/reading2024#logs" class="hash-link" aria-label="Direct link to Logs" title="Direct link to Logs">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="buddhism">Buddhism<a href="https://bippyboppy.github.io/2024/12/31/reading2024#buddhism" class="hash-link" aria-label="Direct link to Buddhism" title="Direct link to Buddhism">​</a></h3>
+<ul>
+<li>Pure Land, Jones</li>
+<li>The life of milarepa</li>
+<li>The buddhist and the ethicist</li>
+<li>Meditations of the Pali tradition</li>
+<li>Death was his koan</li>
+<li>Entry into the inconceivable</li>
+<li>The four sublime states</li>
+<li>Dhammapada, Gil Fronsdal</li>
+<li>Tales of a mad yogi</li>
+<li>Warrior of zen</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="politics">Politics<a href="https://bippyboppy.github.io/2024/12/31/reading2024#politics" class="hash-link" aria-label="Direct link to Politics" title="Direct link to Politics">​</a></h3>
+<ul>
+<li>Doing good better</li>
+<li>Timenergy</li>
+<li>Communist Manifesto</li>
+<li>Postcapitalist Desire</li>
+<li>Age of anxiety</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="philosophy">Philosophy<a href="https://bippyboppy.github.io/2024/12/31/reading2024#philosophy" class="hash-link" aria-label="Direct link to Philosophy" title="Direct link to Philosophy">​</a></h3>
+<ul>
+<li>Dune and philosophy, Decker</li>
+<li>Mans search for meaning</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="technology">Technology<a href="https://bippyboppy.github.io/2024/12/31/reading2024#technology" class="hash-link" aria-label="Direct link to Technology" title="Direct link to Technology">​</a></h3>
+<ul>
+<li>Crypto Crackup, Bennington</li>
+<li>The simulation unplugged, Zouev</li>
+<li>Going infinite</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fiction">Fiction<a href="https://bippyboppy.github.io/2024/12/31/reading2024#fiction" class="hash-link" aria-label="Direct link to Fiction" title="Direct link to Fiction">​</a></h3>
+<ul>
+<li>Dharma Bums</li>
+<li>I, Robot, Asimov</li>
+</ul>]]></content>
+        <author>
+            <name>GratefulDaemon</name>
+        </author>
+        <category label="reading" term="reading"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Broad-health-behaviours]]></title>
         <id>https://bippyboppy.github.io/2024/12/29/Broad-health-behaviours</id>
