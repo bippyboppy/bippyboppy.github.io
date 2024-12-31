@@ -1,6 +1,6 @@
 ## All Factors
 
-This is mostly just a look at the rough impact size of certain factors and behaviours on *health, longevity* and *wellbeing* - That's the scope it's not factoring in any personal goals or values you may have. It's use is to identify what to focus on and what are the highest yield levers you can pull for improvements in health, longevity and wellbeing.
+This is mostly just a look at the rough impact size of certain factors and behaviours on *health, longevity* and *wellbeing* - That's the scope it's not factoring in any personal goals or values you may have. It's use is to identify what to focus on and what are the highest yield levers you can pull for improvements in health, longevity and wellbeing. <!-- truncate -->
 
 
 
