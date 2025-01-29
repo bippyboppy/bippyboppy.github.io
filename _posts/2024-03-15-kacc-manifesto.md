@@ -2,6 +2,7 @@
 layout: post
 title: k/acc manifesto
 toc: true
+comments: true
 pin: true
 math: false
 mermaid: false
