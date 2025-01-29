@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -140,7 +140,7 @@ assets:
 pwa:
   enabled: false # The option for PWA feature (installable)
   cache:
-    enabled: true # The option for PWA offline cache
+    enabled: false # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
@@ -185,7 +185,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: false
+      comments: true
   - scope:
       path: ""
       type: tabs # see `site.collections`
