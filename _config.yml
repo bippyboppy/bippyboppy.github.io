@@ -61,10 +61,10 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: bipp
   umami:
-    id: f2ba2d56-0e34-481d-9829-d183ba900700
-    domain: https://cloud.umami.is/
+    id:
+    domain:
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: bippyboppy/bippyboppy.github.io
+    repo_id: R_kgDONxRwzA
+    category: General
+    category_id: DIC_kwDONxRwzM4CmcR1
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
