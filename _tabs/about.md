@@ -3,6 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+I can also be found on substack [here](https://gratefuldaemon.substack.com)
 
 ## Donate
 

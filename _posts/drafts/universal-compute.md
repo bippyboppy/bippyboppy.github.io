@@ -1,13 +1,15 @@
 ---
-title: Universal Compute Manifesto
-authors: grate
-tags: [acc, technology, ai]
-enableComments: true
+title: The future of technology as I see it
+description: We stand at the precipice of a new era, where Artificial Intelligence (**AI**), Artificial Super Intelligence (**ASI**) and Artificial General Intelligence (**AGI**) holds the key to unparalleled advancements in human knowledge, creativity, and prosperity
+toc: true
+pin: false
+math: false
+mermaid: false
+categories: [Technology]
+tags: [accelerationism, technology, ai]
 ---
 
 We stand at the precipice of a new era, where Artificial Intelligence (**AI**), Artificial Super Intelligence (**ASI**) and Artificial General Intelligence (**AGI**) holds the key to unparalleled advancements in human knowledge, creativity, and prosperity. This manifesto, is dedicated to the goal of maximising society's access to "compute" – the capability to perform AI tasks – and ensuring that this access is equitably distributed across the globe. I envision a future where AI is unregulated and unrestricted, fostering an environment of innovation and freedom. Simultaneously, We must recognise the urgent need to address climate change, combat pessimism, and focus our political efforts on the transformative potential of AI otherwise we may miss the opportunity to scale.
-
- <!-- truncate -->
 
 
 
